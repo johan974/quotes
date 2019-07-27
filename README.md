@@ -1,6 +1,6 @@
 # Quotes
 
-Service to provide random quites each time
+Service to provide random quote each time
 
 ## Execution
 Start the service using `mvn spring-boot:run`
