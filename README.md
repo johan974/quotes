@@ -1,6 +1,6 @@
 # Quotes
 
-Service to provide random quited each time
+Service to provide random quites each time
 
 ## Execution
 Start the service using `mvn spring-boot:run`
