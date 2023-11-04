@@ -19,5 +19,7 @@ You should see something like below
 
 Where `result` is the quote.
 
+# Dit is een update om 20:00 uur 
+
 ## Tutorial
 This repository has been used to demonstrate the dockerization of the spring boot service. Tutorial can be accessed at https://medium.com/@bhanuchaddha/containerise-spring-boot-application-with-docker-6d395c529f44
